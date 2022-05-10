@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.From-register h1 {
+    font-size: 25px;
+    margin: 25px;
+}
+
+.controls {
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    border: 3px solid #7791ac;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+.From-register .botons {
+    width: 100%;
+    background: #7791ac;
+    border: none;
+    margin: 16px 0;
+    color: black;
+    font-size: 16px;
+}
+
+.invi {
+    background: white;
+    width: 100%;
+    border: 3px solid #7791ac;
+    font-family: 'calibri';
+    font-size: 15px;
+}
+
+.liverpool {
+    background-color: transparent;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+}
+
+/* .liverpool_2 {
+       flex-direction: column;
+       display: flex;
+       justify-content: center;
+       position: absolute;
+       border-radius: 5px;
+       padding: 20px;
+       height: 50vh;
+       width: 50vh;
+       margin-top: 100px;
+       margin: 5%;
+    align-items: flex-end;
+    top: -45%;
+    left: -20%;
+} */
+
+
+.font {
+    font-family: 'Lobster Two', cursive;
+    font-size: 20px;
+}
+
+/* .como_ll {
+    width: 100%;
+    background-color: transparent;
+    /* flex-direction: column; */
+    /* text-align: center;
+} */
+
+/* .saba{
+    width: 100%;
+    background-color: transparent;
+    /* flex-direction: column; */
+    /* text-align: center;
+} */
+
+/* .rece {
+    background-color: transparent;
+    /* flex-direction: column; */
+    /* width: 100%;
+} */
+
+/* .despues {
+    background-color: transparent;
+    /* flex-direction: column;
+    width: 100%;
+} */
+
+/* .mi {
+    background-color: transparent;
+    flex-direction: column;
+    width: 100%;
+} */
+
+/* .sug {
+    background-color: transparent;
+    flex-direction: column; 
+    width: 100%;
+    text-align: center;
+} */
+
+/* .ubi_1 {
+    background-color: transparent;
+    flex-direction: column;
+    width: 100%;
+} */
+
+/* .igle {
+    background-color: transparent;
+    flex-direction: column;
+    width: 100%;
+} */
+
+/* .container_liver{
+    width: 100%;
+} */
+
+/* .cont-creditos{
+    width: 100%;
+} */
+
+/* .creditos{
+    float: right;
+    margin-right: 15px;
+    font-size: 21px;
+} */
+
+
+ @media (max-width: 800px) {
+    *{
+        font-size: 30px;
+    }
+    .creditos{
+        font-size: 10px;
+    }
+}
