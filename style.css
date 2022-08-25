@@ -1,0 +1,63 @@
+body {
+    background: url('https://cdn.discordapp.com/attachments/786381921890467841/1012390612231790622/wall.png');
+    font-family: sans-serif;
+
+}
+
+
+
+.discordframe {
+    background-color: transparent;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    border-radius: 20px;
+    padding: 20px;
+    min-height: 20vh;
+    min-width: 10vh;
+    margin-top: 100px;
+    margin: 5%;
+    align-items: flex-end;
+    top: 35%;
+    left: 74%;
+}
+
+
+.discord {
+    background-color: transparent;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    border-radius: 20px;
+    padding: 20px;
+    min-height: 20px;
+    min-width: 10px;
+    margin-top: 100px;
+    margin: 5%;
+    align-items: flex-end;
+    top: 82%;
+    left: 50%;
+}
+
+
+
+.aternos {
+
+    background-color: transparent;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    border-radius: 20px;
+    padding: 20px;
+    min-height: 20px;
+    min-width: 10px;
+    margin-top: 100px;
+    margin: 5%;
+    align-items: flex-end;
+    top: -2%;
+    left: -4%;
+
+}
